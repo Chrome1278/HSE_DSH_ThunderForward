@@ -1,4 +1,5 @@
 # HSE DSH ThunderForward
+Ссылка на [презентацию](https://docs.google.com/presentation/d/1sJokjNogvj3061aGniG-hfMXFWItDgqibCNOKNt2Plw/edit?usp=sharing)
 
 ## Постановка задачи
 Нашей задачей является оценка этической репутации банков на основе текстовой информации — отзывов клиентов банков, оставленных на различных онлайн-площадках.
